@@ -1,7 +1,7 @@
 # RecKG: Knowledge Graph for Recommender Systems
 ### ***ACM/SIGAPP SAC 2024 accepted paper (Oral)***
 
-**This repository is an official implementation of the paper ["RecKG: Knowledge Graph for Recommender Systems"](https://url.kr/d6gi9m).**
+**This repository is an official implementation of the paper ["RecKG: Knowledge Graph for Recommender Systems"](https://drive.google.com/file/d/1VwPBaFLU5mpxKEDMepzABDcaKJZE_4I3/view?usp=sharing).**
 
 Within the field of recommender systems, there has been a shortage of research considering the integration of KGs, and notably, there is a lack of studies contributing to seamless integration. To facilitate the smooth integration of heterogeneous KGs, it is essential to ensure a consistent representation of entities that appear in different datasets while also accommodating diverse types of attributes.
 
