@@ -1,0 +1,1582 @@
+1800247298	Toy Story	1
+1802820491	Jumanji	2
+1800250021	Grumpier Old Men	3
+1800249828	Waiting to Exhale	4
+1800249488	Father of the Bride Part II	5
+1800250043	Heat	6
+1800250557	Sabrina	7
+1800248072	Tom and Huck (Tom Sawyer)	8
+1800251063	Sudden Death	9
+1800249529	Goldeneye	10
+1800373145	The American President	11
+1800252242	Dracula: Dead and Loving It	12
+1800020455	Balto	13
+1800252071	Nixon	14
+1800247315	Cutthroat Island	15
+1807858770	Casino	16
+1800252204	Sense and Sensibility	17
+1800252065	Four Rooms	18
+1800245686	Ace Ventura: When Nature Calls	19
+1800248377	Money Train	20
+1800249953	Get Shorty	21
+1800245177	Copycat	22
+1800245379	Assassins	23
+1800247873	Powder	24
+1800249977	Leaving Las Vegas	25
+1807839301	Othello	26
+1800246889	Now and Then	27
+1800256650	Persuasion	28
+1800025345	The City of Lost Children	29
+1800024450	Shanghai Triad (Yao a yao yao dao waipo yiao)	30
+1800242776	Dangerous Minds	31
+1800252514	12 Monkeys	32
+1800026894	Wings of Courage	33
+1800020413	Babe	34
+1800249202	Carrington	35
+1800252048	Dead Man Walking	36
+1800020050	Across the Sea of Time: New York 3D	37
+1804738128	It Takes Two (Me and My Shadow)	38
+1800240281	Clueless	39
+1800252057	Cry, The Beloved Country	40
+1804849919	Richard III	41
+1800247627	Dead Presidents	42
+1800253365	Restoration	43
+1800372697	Mortal Kombat	44
+1800128040	To Die For	45
+1800248052	How to Make an American Quilt	46
+1800245829	Seven	47
+1800246769	Pocahontas	48
+1800246460	When Night is Falling	49
+1800243088	The Usual Suspects	50
+1800379346	Guardian Angel	51
+1800249503	Mighty Aphrodite	52
+1800294975	Lamerica	53
+1800242421	The Big Green	54
+1800252067	Georgia	55
+1800257135	Kids of the Round Table	56
+1804895485	Home for the Holidays	57
+1800245697	Il Postino (The Postman)	58
+1800025623	The Indian in the Cupboard	60
+1800252230	Eye for an Eye	61
+1800252092	Mr. Holland's Opus	62
+1800256716	Don't Be a Menace to South Central While Drinking Your Juice in the Hood	63
+1800250038	Two If By Sea (Stolen Hearts)	64
+1800250001	Bio-Dome	65
+1800250467	Lawnmower Man 2: Jobe's War	66
+1800252053	Two Bits	67
+1800021911	French Twist	68
+1800235955	Friday	69
+1800253370	From Dusk Till Dawn	70
+1800245294	Fair Game	71
+1808604663	Kicking and Screaming	72
+1800250008	Les Misérables (Les Misérables du vingtième siècle)	73
+1800251524	Bed of Roses	74
+1800254720	Big Bully	75
+1800254272	Screamers	76
+1800292625	Nico Icon	77
+1800249494	The Crossing Guard	78
+1800252497	The Juror	79
+1800263444	The White Balloon (Badkonake Sefid)	80
+1800253360	Things to Do in Denver When You're Dead	81
+1800256972	Antonia's Line	82
+1800255671	Once Upon a Time... When We Were Colored	83
+1800282176	Last Summer in the Hamptons	84
+1800252423	Angels & Insects	85
+1800253349	White Squall	86
+1800251495	Dunston Checks In	87
+1800253724	Black Sheep	88
+1800249089	Nick of Time	89
+1800249667	The Journey of August King	90
+1800256928	Mary Reilly	92
+1800246292	Vampire in Brooklyn	93
+1800256750	Beautiful Girls	94
+1800253043	Broken Arrow	95
+1800260773	A Midwinter's Tale (In the Bleak Midwinter)	96
+1808565678	Hate (La Haïne)	97
+1800320004	Shopping	98
+1800254224	Heidi Fleiss: Hollywood Madam	99
+1800254546	City Hall	100
+1800257799	Bottle Rocket	101
+1800253345	Mr. Wrong	102
+1800253818	Unforgettable	103
+1800253182	Happy Gilmore	104
+1800247909	The Bridges of Madison County	105
+1800255263	Muppet Treasure Island	107
+1800331431	Catwalk	108
+1807872867	Headless Body in Topless Bar	109
+1800244920	Braveheart	110
+1800125435	Taxi Driver (1976)	111
+1800252796	Rumble in the Bronx (Hong Faan Kui)	112
+1800254890	Before and After	113
+1800276066	Margaret's Museum	114
+1800260637	Anne Frank Remembered	116
+1800260232	The Young Poisoner's Handbook	117
+1800257789	If Lucy Fell	118
+1800246104	Steal Big, Steal Little	119
+1800258464	Race the Sun	120
+1800266746	The Boys of St. Vincent	121
+1802838252	Boomerang	122
+1800261908	Chungking Express	123
+1800256758	The Star Maker (L'Uomo delle Stelle)	124
+1800264787	Flirting With Disaster	125
+1800263437	The NeverEnding Story III	126
+1800375017	The Silences of the Palace (Saimt el Qusur)	127
+1800260166	Jupiter's Wife	128
+1800260823	Pie in the Sky	129
+1808457757	Angela	130
+1800248973	Frankie Starlight	131
+1800243915	Jade	132
+1802835128	Nueba Yol (Por Fin Llego Balbuena)	133
+1808554149	Sonic Outlaws	134
+1800254203	Down Periscope	135
+1800268129	From the Journals of Jean Seberg	136
+1800259103	Man of the Year	137
+1800261053	The Neon Bible	138
+1800314237	Target	139
+1800254894	Up Close and Personal	140
+1800255845	The Birdcage	141
+1802953388	Shadows (1988)	142
+1800245461	The Brothers McMullen	144
+1800238578	Bad Boys	145
+1800242286	The Amazing Panda Adventure	146
+1800234414	The Basketball Diaries	147
+1800241304	An Awfully Big Adventure	148
+1800240077	Amateur	149
+1800020307	Apollo 13	150
+1802826719	Rob Roy	151
+1800250488	The Addiction	152
+1800238182	Batman Forever	153
+1800239627	Belle de Jour (1967)	154
+1800244355	Beyond Rangoon	155
+1800249510	Blue in the Face	156
+1800241413	Canadian Bacon	157
+1800020871	Casper	158
+1800245323	Clockers	159
+1800239356	Congo	160
+1800238340	Crimson Tide	161
+1800245783	Crumb	162
+1800243949	Desperado	163
+1800246265	Devil in a Blue Dress	164
+1800242003	Die Hard: With a Vengeance	165
+1800247887	The Doom Generation	166
+1800247640	Feast of July	167
+1800240294	First Knight	168
+1800238858	Free Willy 2: The Adventure Home	169
+1800242917	Hackers	170
+1800243873	Jeffrey	171
+1800238822	Johnny Mnemonic (JM)	172
+1800238351	Judge Dredd	173
+1800237709	Jury Duty	174
+1800243797	Kids	175
+1800244365	Living in Oblivion	176
+1800241401	Lord of Illusions	177
+1808524891	Love and Human Remains	178
+1808445199	Mad Love	179
+1800245898	Mallrats	180
+1800240440	Mighty Morphin Power Rangers: The Movie	181
+1800245194	Moonlight and Valentino	182
+1800244943	Mute Witness	183
+1800244151	Nadja (1994)	184
+1800243172	The Net	185
+1800243791	Nine Months	186
+1800245593	Party Girl	187
+1800244785	The Prophecy (God's Army)	188
+1800302883	Reckless	189
+1800242500	Safe	190
+1800311593	The Scarlet Letter	191
+1800248983	The Show	192
+1800024516	Showgirls	193
+1800239656	Smoke	194
+1800242839	Something to Talk About	195
+1800239389	Species	196
+1800245361	The Stars Fell on Henrietta	197
+1800247074	Strange Days	198
+1800130822	The Umbrellas of Cherbourg (1964)	199
+1800244806	The Tie That Binds	200
+1800247294	Three Wishes	201
+1808412906	Total Eclipse	202
+1800244882	To Wong Foo, Thanks for Everything! Julie Newmar	203
+1800243093	Under Siege 2: Dark Territory	204
+1800245769	Unstrung Heroes	205
+1800242795	Unzipped	206
+1800245442	A Walk in the Clouds	207
+1800243052	Waterworld	208
+1800248116	White Man's Burden	209
+1800249972	Wild Bill	210
+1800221493	The Browning Version	211
+1800244571	Bushwhacked	212
+1800241483	Burnt by the Sun	213
+1800232991	Before the Rain (Pred Dozhdot)	214
+1802836704	Before Sunrise	215
+1800231636	Billy Madison	216
+1802837460	The Babysitter	217
+1800230921	Boys on the Side	218
+1800237582	The Cure	219
+1800241365	Castle Freak	220
+1800240378	The Courtyard	221
+1800325387	Circle of Friends	222
+1800226270	Clerks	223
+1800234527	Don Juan DeMarco (Don Juan DeMarco and the Centerfold)	224
+1800228118	Disclosure	225
+1800330622	Dream Man	226
+1800227905	Drop Zone	227
+1800234917	Destiny Turns On The Radio	228
+1800229850	Death and the Maiden	229
+1800238557	Dolores Claiborne	230
+1800228066	Dumb and Dumber	231
+1800228436	Eat Drink Man Woman	232
+1800235947	Exotica	233
+1800220310	Exit to Eden	234
+1800222974	Ed Wood	235
+1800236989	French Kiss	236
+1800238549	Forget Paris	237
+1800229903	Far From Home: The Adventures of Yellow Dog	238
+1800232958	A Goofy Movie	239
+1800233541	Hideaway	240
+1800021803	Fluke	241
+1800021670	Farinelli	242
+1800240145	Gordy	243
+1800240352	Gumby: The Movie	244
+1800238448	The Glass Shield	245
+1800225372	Hoop Dreams	246
+1800226254	Heavenly Creatures	247
+1800229750	Houseguest	248
+1800230865	Immortal Beloved	249
+1800232247	Heavyweights	250
+1807858198	The Hunted	251
+1800229628	I.Q.	252
+1800227659	Interview with the Vampire	253
+1800233324	Jefferson in Paris	254
+1804340321	The Jerky Boys	255
+1808500743	Junior	256
+1800230930	Just Cause	257
+1800242431	A Kid in King Arthur's Court	258
+1800234519	Kiss of Death	259
+1800121659	Star Wars	260
+1802829259	Little Women	261
+1800019910	A Little Princess	262
+1800235679	Ladybird Ladybird	263
+1800230306	L'Enfer	264
+1800204511	Like Water For Chocolate (Como Agua Para Chocolate)	265
+1800227783	Legends of the Fall	266
+1800234160	Major Payne	267
+1800233539	Little Odessa	268
+1800218661	My Crazy Life (Mi Vida Loca)	269
+1800223023	Love Affair	270
+1800233383	Losing Isaiah	271
+1800235440	The Madness of King George	272
+1800225427	Mary Shelley's Frankenstein	273
+1800232239	Man of the House	274
+1800229308	Mixed Nuts	275
+1800219588	Milk Money	276
+1800238126	Miracle on 34th Street	277
+1800229709	Miami Rhapsody	278
+1800238019	My Family (Mi Familia)	279
+1800228089	Murder in the First	280
+1800231314	Nobody's Fool	281
+1800229631	Nell	282
+1800235481	New Jersey Drive	283
+1800237308	New York Cop	284
+1800236964	Nightscare	285
+1800235215	Nemesis 2: Nebula	286
+1800238648	Nina Takes a Lover	287
+1800216539	Natural Born Killers	288
+1800221499	Only You	289
+1800235461	Once Were Warriors	290
+1800243036	Poison Ivy II	291
+1800230976	Outbreak	292
+1800227679	The Professional	293
+1800236797	The Perez Family	294
+1800235881	A Pyromaniac's Love Story	295
+1800233344	Pulp Fiction	296
+1800235796	Panther	297
+1800372793	Pushing Hands	298
+1800084229	Priest	299
+1800222990	Quiz Show	300
+1800235939	Picture Bride	301
+1800228145	Queen Margot	302
+1802817315	The Quick and the Dead	303
+1800233322	Roommates	304
+1800228030	Ready to Wear (Pret à Porter)	305
+1808457771	Three Colors: Red	306
+1804519994	Three Colors: Blue	307
+1808457771	Three Colors: White	308
+1800239502	Red Firecracker, Green Firecracker (Paoda Shuang Deng)	309
+1800239317	Rent-a-Kid	310
+1800235582	Relative Fear	311
+1800237318	Stuart Saves His Family	312
+1800230710	The Swan Princess	313
+1800239994	The Secret of Roan Inish	314
+1802833974	The Specialist	315
+1800261144	Stargate	316
+1800235258	The Santa Clause	317
+1800223031	The Shawshank Redemption	318
+1800229641	Shallow Grave	319
+1800230633	Suture	320
+1800238069	Strawberry and Chocolate (Fresa y chocolate)	321
+1800237612	Swimming With Sharks	322
+1800231255	Stephen King's The Langoliers	323
+1800237139	The Sum of Us	324
+1800243201	National Lampoon's Senior Trip	325
+1800232929	To Live (Huozhe)	326
+1800230645	Tank Girl	327
+1800231334	Tales From the Crypt Presents: Demon Knight	328
+1800024802	Star Trek: Generations	329
+1800235861	Tales From the Hood	330
+1800231677	Tom and Viv	331
+1800236437	Village of the Damned	332
+1800235870	Tommy Boy	333
+1800231499	Vanya on 42nd Street	334
+1800238682	The Underneath	335
+1800228966	The Walking Dead	336
+1800026767	What's Eating Gilbert Grape?	337
+1800243568	Virtuosity	338
+1800235872	While You Were Sleeping	339
+1800225664	The War	340
+1800244080	Double Happiness	341
+1800244741	Muriel's Wedding	342
+1800025170	The Baby-Sitters Club	343
+1800201304	Ace Ventura: Pet Detective	344
+1800222810	The Adventures of Priscilla, Queen of the Desert	345
+1800208730	Backbeat	346
+1808428955	Bitter Moon	347
+1800221033	Bullets Over Broadway	348
+1800217234	Clear and Present Danger	349
+1800212909	The Client	350
+1800218278	Corrina, Corrina	351
+1800209568	Crooklyn	352
+1800025366	The Crow	353
+1800228585	Cobb	354
+1800269011	The Flintstones	355
+1800217371	Forrest Gump	356
+1800206599	Four Weddings and a Funeral	357
+1800231487	Higher Learning	358
+1800223292	I Like It Like That	359
+1800213194	I Love Trouble	360
+1800217318	It Could Happen to You	361
+1808411262	The Jungle Book	362
+1800221066	The Wonderful, Horrible Life of Leni Riefenstahl	363
+1800216534	The Lion King	364
+1800212008	Little Buddha	365
+1800222436	Wes Craven's New Nightmare	366
+1800215641	The Mask	367
+1800212880	Maverick	368
+1800225374	Mrs. Parker and the Vicious Circle	369
+1800208166	Naked Gun 33 1/3: The Final Insult	370
+1800209307	The Paper	371
+1800202506	Reality Bites	372
+1800194542	Red Rock West	373
+1800225384	Richie Rich	374
+1800228133	Safe Passage	375
+1800220730	The River Wild	376
+1800212379	Speed	377
+1800225411	Speechless	378
+1800219620	Timecop	379
+1800214928	True Lies	380
+1800212014	When a Man Loves a Woman	381
+1800215888	Wolf	382
+1800370351	Wyatt Earp	383
+1808488793	Bad Company	384
+1800235629	A Man of No Importance	385
+1800225792	S.F.W.	386
+1800139696	A Low Down Dirty Shame (Mr. Cool)	387
+1800184992	Boy's Life	388
+1800228207	Le Colonel Chabert	389
+1800138669	Faster, Pussycat! Kill! Kill! (1965)	390
+1800219674	Jason's Lyric	391
+1800235594	The Secret Adventures of Tom Thumb	392
+1800228525	Street Fighter	393
+1800238839	Coldblooded	394
+1800335160	Desert Winds	395
+1800238156	Fall Time	396
+1800371618	The Fear	397
+1800325859	Frank and Ollie	398
+1800237314	Girl in the Cadillac	399
+1800263457	Homage	400
+1800239168	Mirage	401
+1800258346	Open Season	402
+1808609393	Two Crimes (Dos crimenes)	403
+1800226300	Highlander III: The Sorcerer	405
+1800232259	Federal Hill	406
+1800231316	In the Mouth of Madness	407
+1800205592	8 Seconds	408
+1800208766	Above the Rim	409
+1800198344	Addams Family Values	410
+1807816356	You So Crazy	411
+1800196315	The Age of Innocence	412
+1800020107	Airheads	413
+1800201725	The Air Up There	414
+1800196904	Another Stakeout	415
+1808502028	Bad Girls	416
+1802824164	Barcelona	417
+1800207026	Being Human	418
+1800197104	The Beverly Hillbillies	419
+1800211875	Beverly Hills Cop III	420
+1808447173	Black Beauty	421
+1800202278	Blink	422
+1802838112	Blown Away	423
+1800205053	Blue Chips	424
+1800222820	Blue Sky	425
+1800201943	Body Snatchers	426
+1800194111	Boxing Helena	427
+1800195932	A Bronx Tale	428
+1800202667	Cabin Boy	429
+1800194536	Calendar Girl	430
+1800196701	Carlito's Way	431
+1800211859	City Slickers II: The Legend of Curly's Gold	432
+1800209240	Clean Slate	433
+1800190269	Cliffhanger	434
+1800193151	Coneheads	435
+1800218357	Color of Night	436
+1800211470	Cops and Robbersons	437
+1800210889	The Cowboy Way	438
+1804578191	Dangerous Game (Snake Eyes)	439
+1800190621	Dave	440
+1800194750	Dazed and Confused	441
+1800195627	Demolition Man	442
+1808491551	The Endless Summer 2	443
+1800211319	Even Cowgirls Get the Blues	444
+1800195719	Fatal Instinct	445
+1800206887	Farewell My Concubine	446
+1800210644	The Favor	447
+1800064496	Fearless	448
+1800214912	Fear of a Black Hat	449
+1800209781	With Honors	450
+1800196662	Flesh and Bone	451
+1800213002	Widow's Peak	452
+1802825744	For Love or Money	453
+1800191019	The Firm	454
+1800190862	Free Willy	455
+1800218329	Fresh	456
+1808413033	The Fugitive	457
+1800201636	Geronimo: An American Legend	458
+1800201477	The Getaway	459
+1800212861	Getting Even With Dad	460
+1800238695	Go Fish	461
+1800218792	A Good Man in Africa	462
+1800190752	Guilty As Sin	463
+1800193419	Hard Target	464
+1800202438	Heaven and Earth	465
+1800192737	Hot Shots! Part Deux	466
+1800249100	Live Nude Girls	467
+1800239676	The Englishman Who Went Up a Hill But Came Down a Mountain	468
+1800205155	The House of the Spirits	469
+1800201930	House Party 3	470
+1800209275	The Hudsucker Proxy	471
+1800205262	I'll Do Anything	472
+1800218321	In the Army Now	473
+1800194255	In the Line of Fire	474
+1800201846	In the Name of the Father	475
+1800209898	The Inkwell (No Ordinary Summer)	476
+1800195756	What's Love Got To Do With It?	477
+1800209234	Jimmy Hollywood	478
+1800195691	Judgment Night	479
+1800202853	Jurassic Park	480
+1800193430	Kalifornia	481
+1800216552	Killing Zoe	482
+1800216905	King of the Hill	483
+1800213866	Lassie	484
+1800193490	Last Action Hero	485
+1800190776	Life With Mikey (Give Me a Break)	486
+1800203499	Lightning Jack	487
+1800196117	M. Butterfly	488
+1800189499	Made in America	489
+1800196571	Malice	490
+1803242172	The Man Without a Face	491
+1800195539	Manhattan Murder Mystery	492
+1800192888	Menace II Society	493
+1800254684	Executive Decision	494
+1800164353	In the Realm of the Senses (Ai no Corrida) (1976)	495
+1800245547	What Happened Was...	496
+1808436193	Much Ado About Nothing	497
+1800197291	Mr. Jones	498
+1800195924	Mr. Wonderful	499
+1800197968	Mrs. Doubtfire	500
+1800202080	Naked	501
+1800218172	The Next Karate Kid	502
+1800220945	The New Age	503
+1802958109	No Escape (Escape from Absolom)	504
+1800215431	North	505
+1800197997	Orlando	506
+1800197824	A Perfect World	507
+1800201616	Philadelphia	508
+1800198688	The Piano	509
+1800194018	Poetic Justice	510
+1800194298	The Program	511
+1800222924	The Puppet Masters	512
+1800224844	Radioland Murders	513
+1800204253	The Ref	514
+1800024204	The Remains of the Day	515
+1800215464	Renaissance Man	516
+1800192012	Rising Sun	517
+1800226359	The Road to Wellville	518
+1800196284	Robocop 3	519
+1800193033	Robin Hood: Men in Tights	520
+1800201914	Romeo is Bleeding	521
+1803470400	Romper Stomper	522
+1800195776	Ruby in Paradise	523
+1800198675	Rudy	524
+1800197045	The Saint of Fort Washington	525
+1800216156	Savage Nights (Les Nuits fauves)	526
+1800205324	Schindler's List	527
+1800218164	The Scout	528
+1800202260	Searching For Bobby Fischer	529
+1800220947	Second Best	530
+1800193901	The Secret Garden (1993)	531
+1800205995	Serial Mom	532
+1800269089	The Shadow	533
+1800202232	Shadowlands	534
+1800199352	Short Cuts	535
+1800221025	A Simple Twist of Fate	536
+1804462497	Sirens	537
+1800200871	Six Degrees of Separation	538
+1800191133	Sleepless in Seattle	539
+1800189256	Sliver	540
+1800037822	Blade Runner (1982)	541
+1800194102	Son in Law	542
+1800195642	So I Married an Axe Murderer	543
+1800195171	Striking Distance	544
+1800203445	Sugar Hill (Harlem)	545
+1800190780	Super Mario Bros.	546
+1800207689	Surviving the Game	547
+1800223006	Terminal Velocity	548
+1800219906	Thirty-Two Short Films About Glenn Gould	549
+1800206651	Threesome	550
+1800182038	Tim Burton's The Nightmare Before Christmas	551
+1804462553	The Three Musketeers	552
+1800201702	Tombstone	553
+1800215924	Trial By Jury	554
+1800192965	True Romance	555
+1800199959	The War Room	556
+1800243041	Mamma Roma (1962)	557
+1800224014	The Pagemaster	558
+1800220175	Paris, France	559
+1800217739	The Beans of Egypt, Maine (Forbidden Choices)	560
+1800419617	Bulletproof Heart (Killer)	561
+1800262435	Welcome to the Dollhouse	562
+1800212957	Germinal	563
+1800204315	Chasers	564
+1800210677	Cronos (La Invencion de Cronos)	565
+1800217347	Naked in New York	566
+1800219788	Kika	567
+1800243215	Bhaji on the Beach	568
+1800211562	Little Big League	569
+1808677457	The Slingshot (Kaadisbellan)	570
+1800213190	The Wedding Gift	571
+1800214439	Foreign Student	572
+1800215466	Ciao, Professore!	573
+1800215607	Spanking the Monkey	574
+1800218762	The Little Rascals	575
+1800218155	A la Mode (Fausto)	576
+1800218150	Andre	577
+1800222932	The Advocate	578
+1800273045	La Scorta	579
+1800219667	Princess Caraboo	580
+1800262164	The Celluloid Closet	581
+1800266776	Cafe au Lait	582
+1800222298	Caro Diario (Dear Diary)	583
+1808406175	I Don't Want to Talk About It (De Eso No Se Habla)	584
+1800231178	The Brady Bunch Movie	585
+1800155161	Home Alone	586
+1800147492	Ghost	587
+1800362901	Aladdin	588
+1800161524	Terminator 2: Judgment Day	589
+1800155580	Dances With Wolves	590
+1800218800	Tough and Deadly	591
+1800340927	Batman (1989)	592
+1800367822	The Silence of the Lambs	593
+1804094938	Snow White and the Seven Dwarfs (1937)	594
+1804019197	Beauty and the Beast	595
+1800106376	Pinocchio (1940)	596
+1800139980	Pretty Woman	597
+1800244536	Window to Paris	598
+1800231321	The Wild Bunch (1969)	599
+1800221731	Love and a .45	600
+1800250348	The Wooden Man's Bride (Wukui)	601
+1800240243	A Great Day in Harlem	602
+1800232135	Bye Bye, Love	603
+1804462883	Criminals	604
+1808421234	One Fine Day	605
+1800231853	Candyman: Farewell to the Flesh	606
+1800232965	Century	607
+1800256439	Fargo	608
+1800252197	Homeward Bound II: Lost in San Francisco	609
+1800251007	Heavy Metal (1981)	610
+1800258846	Hellraiser: Bloodline	611
+1800258897	The Pallbearer	612
+1800332436	Jane Eyre	613
+1800260654	Loaded	614
+1800247026	Bread and Chocolate (Pane e Cioccolata) (1973)	615
+1800245006	The Aristocats (1970)	616
+1800261510	The Flower of My Secret (La Flor de mi Secreto)	617
+1800254915	Two Much	618
+1800254199	Ed	619
+1800292062	My Favorite Season (Ma Saison Préférée)	621
+1800023131	A Modern Affair (Mr. #247)	623
+1800319983	Condition Red	624
+1800270212	Halfaouine: l'Enfant des Terrasses	625
+1800256357	A Thin Line Between Love and Hate	626
+1800259142	The Last Supper	627
+1800257547	Primal Fear	628
+1800259650	Rude	629
+1808399308	Carried Away	630
+1800020142	All Dogs Go to Heaven 2	631
+1800374128	Land and Freedom (Tierra y libertad)	632
+1800259286	Denise Calls Up	633
+1800252199	Theodore Rex	634
+1800261943	A Family Thing	635
+1800400355	Frisk	636
+1800256104	Sgt. Bilko	637
+1800253758	Jack and Sarah	638
+1800255906	Girl 6	639
+1800254768	Diabolique	640
+1800300771	Little Indian, Big City (Un Indien dans la ville)	641
+1800264844	Courage Under Fire	647
+1800256345	Mission: Impossible	648
+1800269805	A Koeldum klaka (Cold Fever)	649
+1800374572	Moll Flanders	650
+1800277573	301, 302	652
+1800259390	Dragonheart	653
+1800261902	Eddie	656
+1800248403	Yankee Zulu	657
+1804149011	Billy's Holiday	658
+1800263296	Purple Noon (1960)	659
+1808415733	August	660
+1800258169	James and the Giant Peach	661
+1800258471	Fear	662
+1800256099	Kids in the Hall: Brain Candy	663
+1800255254	Faithful	664
+1800385757	Underground	665
+1808548204	Lust och Faegring Stor (All Things Fair)	666
+1800255210	Bloodsport 2: The Next Kumite	667
+1800192053	Pather Panchali (Song of the Road) (1955)	668
+1800192069	Aparajito (The Unvanquished) (1956)	669
+1800192086	The World of Apu (Apur Sansar) (1959)	670
+1800257290	Mystery Science Theater 3000: The Movie	671
+1800316769	Tarantella	672
+1800024725	Space Jam	673
+1800031863	Barbarella (1968)	674
+1800245870	Hostile Intentions	675
+1800247926	They Bite	676
+1800302028	Some Folks Call it a Sling Blade	678
+1800245516	The Run of the Country	679
+1800340716	Alphaville (1965)	680
+1808412062	Coup de Torchon (Clean Slate) (1981)	681
+1800266928	Tigrero: A Film that was Never Made	682
+1800250369	The Eye of Vichy	683
+1800245574	Picture Windows	684
+1800253797	It's My Party	685
+1808404486	Il Mostro (The Monster)	686
+1800244771	Country Life	687
+1800241087	Operation Dumbo Drop	688
+1800245913	Pre-Madonnas: Rebels Without a Clue	689
+1800245377	The Promise	690
+1800260136	Mrs. Winterbourne	691
+1802817892	Solo	692
+1800254747	The Substitute	694
+1800324868	True Crime	695
+1800375686	Butterfly Kiss	696
+1800263638	Feeling Minnesota	697
+1800245758	Delta of Venus	698
+1800240713	To Cross the Rubicon	699
+1800245369	Angus	700
+1800246048	Daens	701
+1800246006	Faces (1968)	702
+1802829648	Boys	703
+1808466105	The Quest	704
+1800286718	Cosi	705
+1800260525	Sunset Park	706
+1800254958	Mulholland Falls	707
+1800256362	The Truth about Cats and Dogs	708
+1800252195	Oliver and Company (1988)	709
+1800256744	Celtic Pride	710
+1800229453	Flipper	711
+1803242276	Captives	712
+1800260690	Of Love and Shadows	713
+1800261904	Dead Man	714
+1800264695	The Horseman on the Roof (Le Hussard sur le toit)	715
+1800263289	Switchblade Sisters (1975)	716
+1800231316	Mouth to Mouth (Boca a Boca)	717
+1800265236	The Visitors (Les Visiteurs)	718
+1800259411	Multiplicity	719
+1800294862	Wallace & Gromit: The Best of Aardman Animations	720
+1800260568	Halfmoon (Paul Bowles - Halbmond)	721
+1800278242	Two Friends (1986)	723
+1800259259	The Craft	724
+1800258938	The Great White Hype	725
+1808410569	Last Dance	726
+1808456270	War Stories Our Mother Never Told Us	727
+1800404197	Cold Comfort Farm	728
+1800337060	Institute Benjamenta… or This Dream People Call Human Life	729
+1800258136	The Low Life	730
+1800258955	Heaven's Prisoners	731
+1800259537	Original Gangstas	732
+1800026053	The Rock	733
+1800254299	Getting Away With Murder	734
+1800020903	Cemetery Man	735
+1800258211	Twister	736
+1800255867	Barb Wire	737
+1800381744	Bridge to the Future	740
+1808565595	Ghost in the Shell (Kokaku Kidotai)	741
+1800267066	Thinner	742
+1800258858	Spy Hard	743
+1800298332	Brothers in Trouble	744
+1800260399	A Close Shave	745
+1808473330	Forces of Evil	746
+1800261234	The Stupids	747
+1802830008	The Arrival (Shockwave)	748
+1800373495	Women from Down Under	749
+1800059423	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)	750
+1800248949	Careful	751
+1800248965	Vermont is for Lovers	752
+1800247638	A Month by the Lake	753
+1800022076	Gold Diggers: The Secret of Bear Mountain	754
+1800085413	Kim (1950)	755
+1800275327	Ashes of Time	757
+1800082678	The Jar	758
+1800262502	Maya Lin: A Strong Clear Vision	759
+1800263541	Stalingrad	760
+1802834205	The Phantom	761
+1800260807	Striptease	762
+1800268144	Heavy	764
+1800263264	Jack	765
+1800256656	I Shot Andy Warhol	766
+1800264926	The Grass Harp	767
+1800375484	Someone Else's America (L'Amérique des autres)	768
+1800208482	La Vie est belle (Life is Rosy) (1987)	771
+1800208606	Quartier Mozart	772
+1800208613	Touki Bouki (Journey of the Hyena) (1973)	773
+1800208474	Wend Kuuni (God's Gift) (1982)	774
+1800373464	Spirits of the Dead (1968)	775
+1800249938	Babyfever	776
+1800249880	Pharaoh's Army	777
+1800026459	Trainspotting	778
+1800291406	'Til There Was You	779
+1800022581	Independence Day (ID4)	780
+1800259854	Stealing Beauty (Io Ballo da Sola)	781
+1800263585	The Fan	782
+1808447166	The Hunchback of Notre Dame	783
+1800260787	The Cable Guy	784
+1808487428	Kingpin	785
+1800259036	Eraser	786
+1800102142	The Nutty Professor	788
+1800020553	I, The Worst of All	789
+1800252373	An Unforgettable Summer	790
+1800266841	The Last Klezmer	791
+1800079169	A Hungarian Fairy Tale (1987)	792
+1800252585	My Life and Times with Antonin Artaud	793
+1800254711	Midnight Dancers	794
+1800267191	Somebody to Love	795
+1808626884	A Very Natural Thing (1974)	796
+1800252427	The Old Lady Who Walked in the Sea	797
+1800267628	Daylight	798
+1800261521	The Frighteners	799
+1800266491	Lone Star	800
+1800022212	Harriet the Spy	801
+1800261897	Phenomenon	802
+1800264757	Walking and Talking	803
+1800262186	She's the One	804
+1800261957	A Time to Kill	805
+1800020187	American Buffalo	806
+1808516030	Rendezvous in Paris (Les Rendez-vous de Paris)	807
+1802819857	Alaska	808
+1800261972	Fled	809
+1800259247	Kazaam	810
+1800263094	Der Bewegte Mann	811
+1800022907	Larger than Life	813
+1800250559	A Boy Called Hate	814
+1800268978	Power 98	815
+1800261057	Two Deaths	816
+1800263645	A Very Brady Sequel	818
+1800253488	Stephano Quantestorie	819
+1800193901	Death in the Garden (Mort en ce Jardin) (1956)	820
+1800252825	The Crude Oasis	821
+1800253632	Hedd Wyn	822
+1800253610	La Collectionneuse (1967)	823
+1800267031	Kaspar Hauser	824
+1807615559	The Convent	827
+1807634861	The Adventures of Pinocchio	828
+1800261916	Joe's Apartment	829
+1800264832	The First Wives Club	830
+1800267716	Stonewall	831
+1800267501	Ransom	832
+1800265585	High School High	833
+1800259908	Phat Beach	834
+1800264988	Foxfire	835
+1800262174	Chain Reaction	836
+1800094277	Matilda	837
+1800265209	Emma	838
+1800260882	Crow: The City of Angels	839
+1800022386	House Arrest	840
+1800063186	Eyes Without a Face (1959)	841
+1800262717	Tales From the Crypt Presents: Bordello of Blood	842
+1800256466	Lotto Land	843
+1800253655	The Story of Xinghua	844
+1800254792	The Day The Sun Turned Cold	845
+1804466408	Flirt	846
+1800262743	The Big Squeeze	847
+1800266112	The Spitfire Grill	848
+1800263060	Escape From L.A.	849
+1800280388	Cyclo (Xich Lo)	850
+1800020493	Basquiat	851
+1800261928	Tin Cup	852
+1800252157	Dingo	853
+1800254805	The Ballad of Narayama (Narayama Bushi-Ko)	854
+1800266795	Every Other Weekend	855
+1800279611	Mille Bolle Blu	856
+1800255221	Crows and Sparrows	857
+1800071079	The Godfather (1972)	858
+1800419885	The Hippie Revolution	859
+1800263094	Maybe, Maybe Not	860
+1800024964	Supercop	861
+1800263395	Manny & Lo	862
+1800267182	Celestial Clockwork (Cortazar)	863
+1800264673	The Wife	864
+1800267815	Small Faces	865
+1800020734	Bound	866
+1800261950	Carpool	867
+1800230257	Death in Brunswick	868
+1800263462	Kansas City	869
+1800279802	Gone Fishin'	870
+1800260726	Lover's Knot	871
+1800267318	Aiqing Wansui (Vive l'Amour)	872
+1800255020	Shadow of Angels	873
+1800262344	Killer: A Journal of Murder	874
+1800209323	Nothing to Lose (1994)	875
+1808456270	Project S (Police Story 4: Project S)	876
+1800263579	Girls Town	877
+1800042907	Bye-Bye	878
+1800026046	The Relic	879
+1800385422	The Island of Dr. Moreau	880
+1800263237	First Kid	881
+1800263473	The Trigger Effect	882
+1807591415	Daniel Defoe's Robinson Crusoe	883
+1800265738	Sweet Nothing	884
+1800263884	Bogus	885
+1800264356	Bulletproof	886
+1800024999	Talk of Angels	887
+1800240762	The Land Before Time III: The Time of the Great Giving	888
+1800342413	1-900	889
+1800306566	Baton Rouge (1988)	890
+1800254903	Halloween: The Curse of Michael Myers	891
+1800026533	Twelfth Night	892
+1800266597	Mother Night	893
+1800088401	Liebelei (1933)	894
+1800256947	Venice/Venice	895
+1800256953	Wild Reeds	896
+1800234181	For Whom the Bell Tolls (1943)	897
+1800106078	The Philadelphia Story (1940)	898
+1800117946	Singing in the Rain (1952)	899
+1800340810	An American in Paris (1951)	900
+1800068665	Funny Face (1957)	901
+1800040961	Breakfast at Tiffany's (1961)	902
+1800131906	Vertigo (1958)	903
+1800110377	Rear Window (1954)	904
+1800082011	It Happened One Night (1934)	905
+1800069385	Gaslight (1944)	906
+1800069478	The Gay Divorcée (1934)	907
+1800101755	North by Northwest (1959)	908
+1800028267	The Apartment (1960)	909
+1800024701	Some Like it Hot (1959)	910
+1800046032	Charade (1963)	911
+1800020867	Casablanca (1942)	912
+1800092481	The Maltese Falcon (1941)	913
+1800098312	My Fair Lady (1964)	914
+1800113629	Sabrina (1954)	915
+1800112816	Roman Holiday (1953)	916
+1800089374	The Little Princess (1939)	917
+1800094637	Meet Me in St. Louis (1944)	918
+1800019695	The Wizard of Oz (1939)	919
+1800022089	Gone with the Wind (1939)	920
+1800098362	My Favorite Year (1982)	921
+1800123803	Sunset Boulevard (1950)	922
+1800020981	Citizen Kane (1941)	923
+1800340322	2001: A Space Odyssey (1968)	924
+1800188265	The Golden Earrings (1947)	925
+1800340653	All About Eve (1950)	926
+1800136520	The Women (1939)	927
+1800110398	Rebecca (1940)	928
+1800067012	Foreign Correspondent (1940)	929
+1800101896	Notorious (1946)	930
+1800120201	Spellbound (1945)	931
+1800340533	An Affair to Remember (1957)	932
+1800128030	To Catch a Thief (1955)	933
+1800064356	Father of the Bride (1950)	934
+1800031708	The Band Wagon (1953)	935
+1800101416	Ninotchka (1939)	936
+1800090943	Love in the Afternoon (1957)	937
+1800070251	Gigi (1958)	938
+1800162190	The Reluctant Debutante (1958)	939
+1800340506	The Adventures of Robin Hood (1938)	940
+1800317291	The Mark of Zorro (1940)	941
+1800087417	Laura (1944)	942
+1800069894	The Ghost and Mrs. Muir (1947)	943
+1800090639	Lost Horizon (1937)	944
+1800128589	Top Hat (1935)	945
+1800128022	To Be or Not To Be (1942)	946
+1800098523	My Man Godfrey (1936)	947
+1800070133	Giant (1956)	948
+1800060604	East of Eden (1955)	949
+1800126692	The Thin Man (1934)	950
+1800076849	His Girl Friday (1940)	951
+1804126129	Around the World in 80 Days (1956)	952
+1800082075	It's a Wonderful Life (1946)	953
+1800097492	Mr. Smith Goes to Washington (1939)	954
+1800041499	Bringing Up Baby (1938)	955
+1800105512	Penny Serenade (1941)	956
+1800114797	The Scarlet Letter (1926)	957
+1800086430	Lady of Burlesque (1943)	958
+1800102345	Of Human Bondage (1934)	959
+1802827770	Angel on My Shoulder (1946)	960
+1800089184	Little Lord Fauntleroy (1936)	961
+1800126605	They Made Me a Criminal (1939)	962
+1800081106	The Inspector General (1949)	963
+1800340874	Angel and the Badman (1947)	964
+1800340348	The 39 Steps (1935)	965
+1800133213	A Walk in the Sun (1945)	966
+1800104173	The Outlaw (1943)	967
+1800100636	Night of the Living Dead (1968)	968
+1800340539	The African Queen (1951)	969
+1808442834	Beat the Devil (1954)	970
+1800045243	Cat on a Hot Tin Roof (1958)	971
+1800087276	The Last Time I Saw Paris (1954)	972
+1800094632	Meet John Doe (1941)	973
+1800340618	Algiers (1938)	974
+1800119298	Something to Sing About (1937)	975
+1800064059	A Farewell to Arms (1932)	976
+1800158932	Moonlight Murder (1936)	977
+1804861074	The Blue Angel (1930)	978
+1800281559	Nothing Personal	979
+1800194255	In the Line of Duty 2 (1987)	980
+1800268878	Dangerous Ground	981
+1800128030	Picnic (1955)	982
+1800419489	Madagascar Skin	983
+1800262729	The Pompatus of Love	984
+1802752985	Fiddlefest (Small Wonders)	985
+1800021804	Fly Away Home	986
+1800291500	Bliss	987
+1800022115	Grace of My Heart	988
+1800272799	Schlafes Bruder (Brother of Sleep)	989
+1800264941	Maximum Risk	990
+1800266255	Michael Collins	991
+1800265123	The Rich Man's Wife	992
+1802822679	Infinity	993
+1800020619	Big Night	994
+1800264924	Loch Ness	995
+1800244609	Last Man Standing	996
+1800280702	Caught	997
+1800266602	Set it Off	998
+1800263787	2 Days in the Valley	999
+1800267564	Curdled	1000
+1800021458	Ed's Next Move	1002
+1800266506	Extreme Measures	1003
+1800265715	The Glimmer Man	1004
+1800264036	D3: The Mighty Ducks	1005
+1800265342	The Chamber	1006
+1800028388	The Apple Dumpling Gang (1975)	1007
+1800187928	Davy Crockett: King of the Wild Frontier	1008
+1800062272	Escape to Witch Mountain (1975)	1009
+1800090886	The Love Bug (1969)	1010
+1800076010	Herbie Rides Again (1974)	1011
+1800102594	Old Yeller (1957)	1012
+1800104804	The Parent Trap (1961)	1013
+1800107066	Pollyanna (1960)	1014
+1800187398	Homeward Bound: The Incredible Journey	1015
+1800116393	The Shaggy Dog (1959)	1016
+1800124733	Swiss Family Robinson (1960)	1017
+1800126291	That Darn Cat (1965)	1018
+1802823021	20,000 Leagues Under the Sea (1954)	1019
+1800238976	Cool Runnings	1020
+1800202364	Angels in the Outfield	1021
+1800047766	Cinderella (1950)	1022
+1800242945	Winnie the Pooh (Winnie the Pooh and the Blustery Day)	1023
+1800127070	The Three Caballeros (1945)	1024
+1800124781	The Sword in the Stone (1963)	1025
+1800366070	So Dear to My Heart (1948)	1026
+1800138242	Robin Hood (1984)	1027
+1800093913	Mary Poppins (1964)	1028
+1800060243	Dumbo (1941)	1029
+1800105766	Pete's Dragon (1977)	1030
+1800033580	Bedknobs and Broomsticks (1971)	1031
+1800341479	Alice in Wonderland (1951)	1032
+1800193940	The Fox and the Hound (1981)	1033
+1800067829	Freeway	1034
+1800119695	The Sound of Music (1965)	1035
+1800057265	Die Hard (1988)	1036
+1800171102	The Lawnmower Man	1037
+1800267580	Unhook the Stars	1038
+1800271003	Synthetic Pleasures	1039
+1800266396	The Secret Agent	1040
+1808402437	Secrets & Lies	1041
+1800025098	That Thing You Do!	1042
+1800267267	To Gillian on Her 37th Birthday	1043
+1800266145	Surviving Picasso	1044
+1800417054	Love is All There Is	1045
+1800020517	Beautiful Thing	1046
+1800264849	The Long Kiss Goodnight	1047
+1802830366	The Ghost and The Darkness	1049
+1800023114	Looking for Richard	1050
+1800026484	Trees Lounge	1051
+1800026004	The Proprietor	1052
+1800263999	Normal Life	1053
+1800021987	Get on the Bus	1054
+1800272228	Shadow Conspiracy	1055
+1800022729	Jude	1056
+1804580258	Everyone Says I Love You	1057
+1800286562	Bitter Sugar	1058
+1800026869	William Shakespeare's Romeo and Juliet (1996)	1059
+1800024981	Swingers	1060
+1800266274	Sleepers	1061
+1800266441	The Sunchaser	1062
+1800317768	Johns	1063
+1800253215	Aladdin and the King of Thieves	1064
+1804018990	The Woman in Question (1950)	1065
+1800116455	Shall We Dance? (1937)	1066
+1800053074	A Damsel in Distress (1937)	1067
+1800341088	Crossfire (1947)	1068
+1800097843	Murder, My Sweet (1944)	1069
+1800091573	Macao (1952)	1070
+1800259679	For the Moment	1071
+1800292839	The Deadly Cure	1072
+1800135814	Willy Wonka and the Chocolate Factory (1971)	1073
+1808656366	Boys in Venice	1074
+1800374198	The Sexual Life of the Belgians	1075
+1802957480	The Innocents (1961)	1076
+1800118512	Sleeper (1973)	1077
+1800031688	Bananas	1078
+1800065666	A Fish Called Wanda (1988)	1079
+1800096804	Monty Python's Life of Brian	1080
+1800131997	Victor Victoria	1081
+1800043794	The Candidate (1972)	1082
+1800072849	The Great Race (1965)	1083
+1800039901	Bonnie and Clyde (1967)	1084
+1800255291	The Old Man and the Sea (1958)	1085
+1800057050	Dial M for Murder (1954)	1086
+1800267705	Madame Butterfly	1087
+1800021290	Dirty Dancing (1987)	1088
+1800179562	Reservoir Dogs	1089
+1800106663	Platoon (1986)	1090
+1800134285	Weekend at Bernie's (1989)	1091
+1800173852	Basic Instinct	1092
+1800156420	The Doors	1093
+1800183423	The Crying Game	1094
+1800180950	Glengarry Glen Ross	1095
+1800119579	Sophie's Choice (1982)	1096
+1800060404	E.T.: The Extraterrestrial	1097
+1800257824	The Search for One-Eye Jimmy	1098
+1800047377	A Christmas Carol (1938)	1099
+1800021161	Days of Thunder	1100
+1800128578	Top Gun (1986)	1101
+1800020207	American Strays	1102
+1800110458	Rebel Without a Cause (1955)	1103
+1800123020	A Streetcar Named Desire (1951)	1104
+1800256738	Children of the Corn IV: The Gathering	1105
+1800266858	The Leopard Son	1106
+1800360582	Loser	1107
+1800262160	Bird of Prey	1110
+1800268361	Palookaville	1112
+1800363092	The Associate	1113
+1800068633	The Funeral	1114
+1804515227	Sleepover	1115
+1800279136	La fille seule (A Single Girl)	1116
+1800272514	The Eighth Day (Le huitième jour)	1117
+1800267933	Drunks	1119
+1800268547	The People vs. Larry Flynt	1120
+1800282303	Glory Daze	1121
+1800019941	A Perfect Candidate	1123
+1800102855	On Golden Pond (1981)	1124
+1800111275	The Return of the Pink Panther (1974)	1125
+1800161549	Drop Dead Fred	1126
+1800340431	The Abyss (1989)	1127
+1808645895	The Fog (1980)	1128
+1800062205	Escape from New York (1981)	1129
+1800078893	The Howling (1981)	1130
+1800270746	Jean de Florette (1986)	1131
+1800270746	Manon of the Spring (1986)	1132
+1800260273	Talking About Sex	1133
+1800259065	Johnny 100 Pesos	1134
+1800108162	Private Benjamin (1980)	1135
+1800096752	Monty Python and The Holy Grail (1974)	1136
+1800296644	Hustler White	1137
+1800287766	Everything Relative	1139
+1800282329	Entertaining Angels: The Dorothy Day Story	1140
+1804365319	Get Over It	1142
+1800296037	Three Lives and Only One Death	1143
+1800289973	The Line King: The Al Hirschfeld Story	1144
+1800026798	When We Were Kings	1147
+1800240747	The Wrong Trousers	1148
+1800410210	The Return of Martin Guerre (1982)	1150
+1808435464	Faust (1994)	1151
+1800178936	He Walked By Night (1949)	1152
+1800241904	Raw Deal (1948)	1153
+1800124856	T-Men (1947)	1154
+1802837984	The Invitation (1986)	1155
+1800323780	The Children Are Watching Us (1942)	1156
+1800260450	La Symphonie pastorale (1946)	1157
+1800258485	Here Comes Cookie (1935)	1158
+1800258483	Love in Bloom (1935)	1159
+1800258481	Six of a Kind (1934)	1160
+1800127940	The Tin Drum (1979)	1161
+1800113383	The Ruling Class (1972)	1162
+1800266845	Mina Tannenbaum	1163
+1800374843	Two or Three Things I Know About Her… (1966)	1164
+1800319616	The Bloody Child	1165
+1800390186	Farmer & Chase	1166
+1800267496	Dear God	1167
+1800266439	Bad Moon	1168
+1800341698	American Dream	1169
+1800238404	Best of the Best 3: No Turning Back	1170
+1800180455	Bob Roberts	1171
+1800139746	Cinema Paradiso (1988)	1172
+1802819572	The Cook The Thief His Wife and Her Lover (1989)	1173
+1800242815	Dead Tired (Grosse Fatigue)	1174
+1800177633	Delicatessen	1175
+1800172070	The Double Life of Veronique (Podwojne zycie Weroniki)	1176
+1800180300	Enchanted April	1177
+1800139261	Paths of Glory (1957)	1178
+1800025557	The Grifters	1179
+1800170040	Hear My Song	1180
+1800256169	Hidden Assassin	1181
+1800244844	The Innocent	1182
+1800025462	The English Patient	1183
+1800177960	Mediterraneo	1184
+1800098409	My Left Foot (1989)	1185
+1800116225	Sex, Lies, and Videotape (1989)	1186
+1800183487	Passion Fish	1187
+1800194096	Strictly Ballroom	1188
+1800126684	The Thin Blue Line (1988)	1189
+1800141508	Tie Me Up! Tie Me Down! (Atame! Atame!)	1190
+1800157887	Truth or Dare (1991)	1191
+1800170699	Paris Is Burning	1192
+1800103151	One Flew Over the Cuckoo's Nest (1975)	1193
+1800131316	Up in Smoke (1978)	1194
+1800092207	The Magnificent Seven (1954)	1195
+1800061638	The Empire Strikes Back	1196
+1800108021	The Princess Bride (1987)	1197
+1800024141	Raiders of the Lost Ark (1981)	1198
+1800020752	Brazil (1985)	1199
+1800340649	Aliens (1986)	1200
+1800071790	The Good, The Bad and The Ugly (1966)	1201
+1800136245	Withnail and I (1987)	1202
+1800340284	12 Angry Men (1957)	1203
+1800087601	Lawrence of Arabia (1962)	1204
+1800366478	The Transformers: The Movie (1986)	1205
+1800048705	A Clockwork Orange (1971)	1206
+1800128062	To Kill a Mockingbird (1962)	1207
+1800028321	Apocalypse Now (1979)	1208
+1800103041	Once Upon a Time in the West (1969)	1209
+1800111258	Return of the Jedi	1210
+1800135957	Wings of Desire (1987)	1211
+1800126771	The Third Man (1949)	1212
+1802821120	GoodFellas	1213
+1800020133	Alien (1979)	1214
+1800183637	Army of Darkness	1215
+1800469343	The Big Blue (1988)	1216
+1800354625	Ran (1985)	1217
+1800341570	Die xue shuang xiong (The Killer) (1989)	1218
+1800108522	Psycho (1960)	1219
+1800340965	The Blues Brothers (1980)	1220
+1802814933	The Godfather: Part II (1974)	1221
+1800068492	Full Metal Jacket (1987)	1222
+1800240739	A Grand Day Out	1223
+1800141045	Henry V (1989)	1224
+1800362940	Amadeus (1984)	1225
+1800109249	The Quiet Man (1952)	1226
+1800103039	Once Upon a Time in America (1984)	1227
+1800109559	Raging Bull (1980)	1228
+1800027973	Annie Hall (1977)	1230
+1800111838	The Right Stuff (1983)	1231
+1800187660	Stalker (1979)	1232
+1800351670	Das Boot (1981)	1233
+1800122300	The Sting (1973)	1234
+1800074753	Harold and Maude (1971)	1235
+1808506526	Trust	1236
+1808419773	The Seventh Seal (1957)	1237
+1800089951	Local Hero (1983)	1238
+1800026145	The Terminator (1984)	1240
+1800021069	Braindead	1241
+1800070872	Glory (1989)	1242
+1800155901	Rosencrantz and Guildenstern Are Dead	1243
+1800093038	Manhattan (1979)	1244
+1800148679	Miller's Crossing	1245
+1800054624	Dead Poets Society (1989)	1246
+1800072148	The Graduate (1967)	1247
+1800026433	Touch of Evil (1958)	1248
+1800155082	La Femme Nikita	1249
+1800041299	The Bridge on the River Kwai (1957)	1250
+1802823058	8 1/2 (1963)	1251
+1800020966	Chinatown (1974)	1252
+1800054358	The Day the Earth Stood Still (1951)	1253
+1800129564	The Treasure of the Sierra Madre (1948)	1254
+1800031298	Bad Taste (1987)	1255
+1800060100	Duck Soup (1933)	1256
+1800035258	Better Off Dead (1985)	1257
+1800116994	The Shining (1980)	1258
+1800120902	Stand by Me (1986)	1259
+1800341253	M (1931)	1260
+1800062697	Evil Dead II (1987)	1261
+1800072614	The Great Escape (1963)	1262
+1800055909	The Deer Hunter (1978)	1263
+1800057873	Diva (1981)	1264
+1800184255	Groundhog Day	1265
+1800182364	Unforgiven	1266
+1800092995	The Manchurian Candidate (1962)	1267
+1800145098	Pump Up the Volume	1268
+1800029049	Arsenic and Old Lace (1944)	1269
+1800030906	Back to the Future (1985)	1270
+1800171038	Fried Green Tomatoes (Fried Green Tomatoes at the Whistle Stop Café)	1271
+1800105199	Patton (1970)	1272
+1800059138	Down by Law (1986)	1273
+1800161887	Akira (1988)	1274
+1800076684	Highlander (1986)	1275
+1800050522	Cool Hand Luke (1967)	1276
+1800157278	Cyrano de Bergerac (1990)	1277
+1800137971	Young Frankenstein (1974)	1278
+1800174821	Night on Earth	1279
+1800177024	Raise the Red Lantern	1280
+1800072595	The Great Dictator (1940)	1281
+1800156847	Fantasia (1940)	1282
+1800195741	High Noon (1952)	1283
+1800036285	The Big Sleep (1946)	1284
+1800075456	Heathers (1989)	1285
+1800119326	Somewhere in Time (1980)	1286
+1800034299	Ben-Hur (1959)	1287
+1800424013	This Is Spinal Tap (1984)	1288
+1800106089	Koyaanisqatsi (1983)	1289
+1800119237	Some Kind of Wonderful (1987)	1290
+1800080788	Indiana Jones and the Last Crusade (1989)	1291
+1800034007	Being There (1979)	1292
+1800069218	Gandhi (1982)	1293
+1800091499	M*A*S*H (1970)	1294
+1800130898	The Unbearable Lightness of Being (1988)	1295
+1800112959	A Room with a View (1986)	1296
+1800110305	Real Genius (1985)	1297
+1800365567	Pink Floyd - The Wall (1982)	1298
+1800085350	The Killing Fields (1984)	1299
+1800098425	My Life as a Dog (1985)	1300
+1800066879	Forbidden Planet (1956)	1301
+1800064784	Field of Dreams (1989)	1302
+1800025812	The Man Who Would Be King (1975)	1303
+1800042778	Butch Cassidy and the Sundance Kid (1969)	1304
+1800104877	Paris, Texas (1984)	1305
+1800170896	Until the End of the World	1306
+1800134855	When Harry Met Sally... (1989)	1307
+1804095041	I Shot a Man in Vegas	1308
+1800394606	Parallel Sons	1309
+1800276597	Hype!	1310
+1800281428	Santa with Muscles	1311
+1800298252	Female Perversions	1312
+1800268246	Mad Dog Time	1313
+1800271033	Breathing Room	1314
+1800292177	Paris Was a Woman	1315
+1804850980	Anna	1316
+1800269003	I'm Not Rappaport	1317
+1800402497	Blue Juice	1318
+1800174285	Alien 3	1320
+1800340823	An American Werewolf in London (1981)	1321
+1800169241	Amityville 1992: It's About Time	1322
+1800340828	Amityville 3-D (1983)	1323
+1800262308	Amityville: Dollhouse	1324
+1800184154	Amityville: A New Generation	1325
+1800139867	Amityville II: The Possession (1982)	1326
+1800340831	The Amityville Horror (1979)	1327
+1800340829	The Amityville Curse	1328
+1803242026	Andy Warhol's Dracula (1974)	1329
+1802837267	April Fool's Day (1986)	1330
+1800029900	Audrey Rose (1977)	1331
+1800034048	The Believers (1987)	1332
+1800025230	The Birds (1963)	1333
+1802838070	The Blob (1958)	1334
+1802838077	Blood Beach (1981)	1335
+1804537733	Body Parts	1336
+1800039635	The Body Snatcher (1945)	1337
+1800201943	Body Snatchers (1993)	1338
+1800181940	Bram Stoker's Dracula	1339
+1800041207	Bride of Frankenstein (1935)	1340
+1800042644	Burnt Offerings (1976)	1341
+1800178698	Candyman	1342
+1800168210	Cape Fear (1991)	1343
+1800043994	Cape Fear (1962)	1344
+1800044667	Carrie (1976)	1345
+1800045289	Cat People (1982)	1346
+1802816835	A Nightmare on Elm Street (1984)	1347
+1800101841	Nosferatu (1922)	1348
+1800102800	The Omen (1976)	1350
+1800268484	Blood and Wine	1351
+1800269631	Albino Alligator	1352
+1800268159	The Mirror Has Two Faces	1353
+1807817011	Breaking the Waves	1354
+1804463418	Nightwatch	1355
+1800024791	Star Trek: First Contact	1356
+1800024488	Shine	1357
+1800359861	Sling Blade	1358
+1800022700	Jingle All the Way	1359
+1800417354	Identification of a Woman	1360
+1800268479	Paradise Lost: The Child Murders at Robin Hood Hills (1996)	1361
+1800355573	The Garden of the Finzi-Continis	1362
+1800265876	The Preacher's Wife	1363
+1800283142	Kjaerlighetens kjoetere	1364
+1800024227	Ridicule	1365
+1800218854	The Crucible	1366
+1800019739	101 Dalmatians (1996)	1367
+1804856734	The Forbidden Christ (Il Cristo Proibito)	1368
+1800266824	I Can't Sleep	1369
+1800141720	Die Hard 2	1370
+1800024819	Star Trek: The Motion Picture (1979)	1371
+1800024823	Star Trek VI: The Undiscovered Country	1372
+1800024819	Star Trek V: The Final Frontier (1989)	1373
+1800024806	Star Trek: The Wrath of Khan (Star Trek II: The Wrath of Khan) (1982)	1374
+1800024813	Star Trek III: The Search for Spock (1984)	1375
+1800024816	Star Trek IV: The Voyage Home (1986)	1376
+1800174173	Batman Returns	1377
+1800137982	Young Guns (1988)	1378
+1800141715	Young Guns II	1379
+1800072405	Grease (1978)	1380
+1800072446	Grease 2 (1982)	1381
+1800148683	Marked for Death	1382
+1800267607	Adrenalin: Fear The Rush	1383
+1800269620	The Substance of Fire	1384
+1800178989	Under Siege	1385
+1800374951	Terror in a Texas Town (1958)	1386
+1800082735	Jaws (1975)	1387
+1800082750	Jaws 2 (1978)	1388
+1800082796	Jaws 3-D (1983)	1389
+1800268788	My Fellow Americans	1390
+1800023302	Mars Attacks!	1391
+1800267649	Citizen Ruth	1392
+1800267910	Jerry Maguire	1393
+1800024145	Raising Arizona (1987)	1394
+1800127966	Tin Men (1987)	1395
+1800177420	Sneakers	1396
+1800267669	Bastard Out of Carolina	1397
+1807792659	In Love and War	1398
+1800267656	Marvin's Room	1399
+1800378720	Somebody is Waiting	1400
+1800022015	Ghosts of Mississippi	1401
+1800025607	The Ice Storm	1403
+1800023698	Night Falls on Manhattan	1404
+1800020522	Beavis and Butt-head Do America	1405
+1800022861	La Cérémonie	1406
+1800115049	Scream	1407
+1800341717	The Last of the Mohicans (1992)	1408
+1800420852	Michael	1409
+1800267788	The Evening Star	1410
+1800022155	Hamlet (1996)	1411
+1800282501	Some Mother's Son	1412
+1800283252	The Whole Wide World	1413
+1800371410	Mother	1414
+1800277216	Thieves (Les Voleurs)	1415
+1808502766	Evita	1416
+1800270001	The Portrait of a Lady	1417
+1800058697	Walkabout (1970)	1419
+1800072353	Grateful Dead	1421
+1800277397	Murder at 1600	1422
+1800075333	Hearts and Minds	1423
+1804319290	Inside	1424
+1800270665	Fierce Creatures	1425
+1800026957	Zeus and Roxanne	1426
+1804751569	Turbulence	1427
+1800270095	Angel Baby	1428
+1800022656	Jackie Chan's First Strike	1429
+1808421437	Underworld	1430
+1800020586	Beverly Hills Ninja	1431
+1808397624	Metro	1432
+1800261270	The Machine	1433
+1800263877	The Stranger	1434
+1800263945	Good Morning	1435
+1800323136	Falling in Love Again (1980)	1436
+1800263740	The Cement Garden	1437
+1800275050	Dante's Peak	1438
+1800267769	Meet Wally Sparks	1439
+1800183213	Amos & Andrew	1440
+1800183737	Benny & Joon	1441
+1800284893	Prefontaine	1442
+1800020025	A Tickle in the Heart	1443
+1800396096	Guantanamera	1444
+1800299459	McHale's Navy	1445
+1808516947	Kolya	1446
+1800269171	Gridlock'd	1447
+1800338912	Fire on the Mountain	1448
+1800026703	Waiting for Guffman	1449
+1808485176	Prisoner of the Mountains	1450
+1808500269	Allies	1451
+1800025187	The Beautician and the Beast	1453
+1800123317	SubUrbia	1454
+1800269093	Hotel de Love	1455
+1800270594	The Pest	1456
+1800272771	Fools Rush In	1457
+1800026429	Touch	1458
+1800268978	Absolute Power	1459
+1800272204	That Darn Cat (1997)	1460
+1800268955	Vegas Vacation	1461
+1800276934	That Old Feeling	1463
+1800023131	Lost Highway	1464
+1800024262	Rosewood	1465
+1800021339	Donnie Brasco	1466
+1800275003	Booty Call	1468
+1800277993	Hard Eight	1469
+1800283854	Rhyme & Reason	1470
+1800383811	Boys Life 2	1471
+1800284430	City of Industry	1472
+1802957910	Best Men	1473
+1800278007	Jungle 2 Jungle	1474
+1800276699	Kama Sutra: A Tale Of Love	1475
+1800158587	Private Parts	1476
+1800023179	Love Jones	1477
+1800279502	The Saint	1479
+1800270756	Smilla's Sense of Snow	1480
+1808445987	The Van	1482
+1807880718	Crash	1483
+1800280617	The Daytrippers	1484
+1800022996	Liar, Liar	1485
+1807600134	The Quiet Room	1486
+1800024398	Selena	1487
+1800275609	The Devil's Own	1488
+1800020880	Cats Don't Dance	1489
+1800280545	B.A.P.S.	1490
+1800020928	Chasing Amy	1491
+1800023164	Love and Other Catastrophes	1493
+1800026088	The Sixth Man	1494
+1800026526	Turbo: A Power Rangers Movie	1495
+1808499459	Anna Karenina	1496
+1800283275	Double Team	1497
+1800278911	Inventing the Abbotts	1498
+1800282126	Anaconda	1499
+1800279640	Grosse Pointe Blank	1500
+1800279044	Keys To Tulsa	1501
+1800379137	Kissed	1502
+1800294043	8 Heads in the Duffel Bag	1503
+1800293613	Hollow Reed	1504
+1800284262	Paradise Road	1507
+1800026472	Traveller	1508
+1800283610	All Over Me	1509
+1800312698	A Brother's Kiss	1510
+1800287840	A Chef in Love (Les mille et une recettes du cuisinier amoureux)	1511
+1800279734	Romy and Michele's High School Reunion	1513
+1800287380	Temptress Moon (Fengyue)	1514
+1804849935	Volcano	1515
+1800287461	Children of the Revolution	1516
+1807485310	Austin Powers	1517
+1800284170	Breakdown	1518
+1800292682	Broken English	1519
+1800276908	Commandments	1520
+1800390135	The Designated Mourner	1521
+1800286604	Ripe	1522
+1800286526	Truth Or Consequences, N.M.	1523
+1800280762	The Turning	1524
+1800278144	Warriors Of Virtue	1525
+1800281903	Fathers' Day	1526
+1800025486	The Fifth Element	1527
+1800294815	Intimate Relations	1528
+1800282645	Nowhere	1529
+1800268900	Losing Chase	1531
+1800284199	Sprung	1532
+1800022878	La Promesse	1533
+1800292146	Le Bonheur	1534
+1800286473	Love! Valour! Compassion!	1535
+1808472913	Shall We Dance? (1996)	1537
+1800276381	The Second Jungle Book: Mowgli & Baloo	1538
+1800280953	Twin Town	1539
+1800020058	Addicted to Love	1541
+1807428639	Brassed Off	1542
+1800390135	Designated Mourner	1543
+1800025778	The Lost World: Jurassic Park	1544
+1800307520	Ponette	1545
+1800279003	Schizopolis	1546
+1800024473	Shiloh	1547
+1800387599	The War at Home	1548
+1800289653	Rough Magic	1549
+1800286741	Trial and Error	1550
+1800020818	Buddy	1551
+1800285442	Con Air	1552
+1800399411	Late Bloomers	1553
+1800025984	The Pillow Book	1554
+1800289038	Speed 2: Cruise Control	1556
+1800291852	Squeeze	1557
+1807645894	Sudden Manhattan	1558
+1803470434	The Next Step	1559
+1800299048	Ulee's Gold	1560
+1800286353	Wedding Bell Blues	1561
+1800269091	Batman and Robin	1562
+1800021403	Dream With the Fishes	1563
+1800291360	For Roseanna	1564
+1800278971	Head Above Water	1565
+1800408490	Hercules	1566
+1800275097	The Last Time I Committed Suicide	1567
+1800277397	MURDER and Murder	1568
+1800023586	My Best Friend's Wedding	1569
+1800291441	Tetsuo II: Body Hammer	1570
+1800026794	When the Cat's Away (Chacun cherche son chat)	1571
+1800050331	Contempt (Le Mépris)	1572
+1800021618	Face/Off	1573
+1800307463	Fall	1574
+1800395165	Gabbeh	1575
+1800395474	Mondo	1577
+1800310740	The Innocent Sleep	1578
+1808524895	For Ever Mozart	1579
+1800023362	Men in Black	1580
+1800023875	Out to Sea	1581
+1800026839	Wild America	1582
+1800019983	A Simple Wish	1583
+1800290305	Contact	1584
+1800291821	Love Serenade	1585
+1800288820	George of the Jungle	1586
+1800295806	Hijacking Hollywood	1587
+1800297049	Kiss Me Guido	1588
+1800023548	Mrs. Brown	1590
+1800287500	Nothing to Lose	1591
+1802832936	Operation Condor (Feiying Gaiwak)	1592
+1800230710	The Swan Princess II	1593
+1800020102	Air Force One	1594
+1800187018	Alive & Kicking	1595
+1808398803	Box of Moonlight	1596
+1800290633	Brilliant Lies	1597
+1800292973	Diary of a Seducer (Le journal du séducteur)	1598
+1800022096	Good Burger	1599
+1800293765	Star Maps	1600
+1802819286	The Winner	1601
+1800290421	187	1602
+1800020092	Air Bud	1603
+1800022564	In the Company of Men	1604
+1800313059	Paperback Romance	1605
+1800023997	Picture Perfect	1606
+1800024744	Spawn	1607
+1800294237	Career Girls	1608
+1800290380	Conspiracy Theory	1609
+1800304868	Desperate Measures	1610
+1800021892	Free Willy 3: The Rescue	1611
+1800296484	Cop Land	1613
+1800380403	Conspirators of Pleasure (Spiklenci Slasti)	1614
+1800294557	Event Horizon	1615
+1800023471	Mon homme	1616
+1800122062	Steel	1617
+1800399392	The Delta	1618
+1800025496	The Full Monty	1619
+1800299344	A Smile Like Yours	1620
+1800021290	Dirty Dancing	1621
+1800065306	Fire	1622
+1800291767	G.I. Jane	1623
+1800022944	Leave It To Beaver	1624
+1800291987	Masterminds	1625
+1800023434	Mimic	1626
+1800023483	Money Talks	1627
+1800285645	Pippi Longstocking	1628
+1808460465	Sunday	1629
+1800303979	A Self-Made Hero (Un héros très discret)	1630
+1800293583	Excess Baggage	1631
+1800290463	Hoodlum	1632
+1800292479	Kull the Conqueror	1633
+1800293401	She's So Lovely	1634
+1800295930	Texas Chainsaw Massacre: The Next Generation (The Return of the Texas Chainsaw Massacre)	1635
+1800304447	The Toilers and the Wayfarers	1636
+1800026502	Trojan Eddie	1637
+1800290533	Fire Down Below	1638
+1800295244	Gravesend	1639
+1800292786	Julian Po	1641
+1800334273	Bandwagon	1643
+1800310311	Different for Girls	1644
+1800024938	Suicide Kings	1645
+1800293217	The Disappearance of Garcia Lorca	1646
+1800025460	The End of Violence	1647
+1800344656	The Game (1997)	1648
+1800307444	The Locusts	1649
