@@ -60,3 +60,16 @@ ml_simple.cypher
 ym_simple.cypher
 integrated_RecKG.cypher
 ```
+
+
+# Citation
+If you would like to cite this paper, please make a copy of the following text. Thank you🤣
+```bibtex
+@inproceedings{kwon2024reckg,
+  title={RecKG: Knowledge Graph for Recommender Systems},
+  author={Kwon, Junhyuk and Ahn, Seokho and Seo, Young-Duk},
+  booktitle={Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing},
+  pages={600--607},
+  year={2024}
+}
+```
