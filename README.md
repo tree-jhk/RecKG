@@ -3,13 +3,15 @@
 
 **This repository is an official implementation of the paper ["RecKG: Knowledge Graph for Recommender Systems"](https://dl.acm.org/doi/10.1145/3605098.3636009).**  
 You can also download our research paper [here](https://drive.google.com/file/d/13_AKtQeVyaz2GwE0Ko7faAijInJJDwFb/view?usp=sharing).  
-The implemented version as a interactive dataset preprocessing tool of RecKG: [RecKG-web](https://github.com/ttytu/RecKG-web).
+The implemented version as a interactive dataset preprocessing tool of RecKG: [RecKG-web](https://github.com/ttytu/RecKG-web).  
 
-Within the field of recommender systems, there has been a shortage of research considering the integration of KGs, and notably, there is a lack of studies contributing to seamless integration. To facilitate the smooth integration of heterogeneous KGs, it is essential to ensure a consistent representation of entities that appear in different datasets while also accommodating diverse types of attributes.
+### **Abstract**
 
-<img src="./source/RecKG.PNG" width=600 height=200 />
+Within the field of recommender systems, there has been a shortage of research considering the integration of KGs, and notably, there is a lack of studies contributing to seamless integration. To facilitate the smooth integration of heterogeneous KGs, it is essential to ensure a consistent representation of entities that appear in different datasets while also accommodating diverse types of attributes.  
 
 In this study, we propose RecKG, a standardized KG for recommender systems, taking into consideration the crucial factors for data integration. We thoroughly examined various datasets from recommender systems to carefully select the attributes of RecKG, ensuring standardized formatting through consistent naming conventions, regardless of the knowledge base.
+
+<img src="./source/RecKG.PNG" width=600 height=200 />
 
 # Collecting TMDB information
 ### **No need to run the code as the data is already in the ./data directory.**
