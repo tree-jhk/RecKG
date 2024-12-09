@@ -3,7 +3,7 @@
 
 **This repository is an official implementation of the paper ["RecKG: Knowledge Graph for Recommender Systems"](https://dl.acm.org/doi/10.1145/3605098.3636009).**  
 You can also download our research paper [here](https://drive.google.com/file/d/13_AKtQeVyaz2GwE0Ko7faAijInJJDwFb/view?usp=sharing).  
-The implemented version as a interactive dataset preprocessing of RecKG: [RecKG-web](https://github.com/ttytu/RecKG-web).
+The implemented version as a interactive dataset preprocessing tool of RecKG: [RecKG-web](https://github.com/ttytu/RecKG-web).
 
 Within the field of recommender systems, there has been a shortage of research considering the integration of KGs, and notably, there is a lack of studies contributing to seamless integration. To facilitate the smooth integration of heterogeneous KGs, it is essential to ensure a consistent representation of entities that appear in different datasets while also accommodating diverse types of attributes.
 
