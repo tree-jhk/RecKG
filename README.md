@@ -11,7 +11,8 @@ Within the field of recommender systems, there has been a shortage of research c
 
 In this study, we propose RecKG, a standardized KG for recommender systems, taking into consideration the crucial factors for data integration. We thoroughly examined various datasets from recommender systems to carefully select the attributes of RecKG, ensuring standardized formatting through consistent naming conventions, regardless of the knowledge base.
 
-<img src="./source/RecKG.PNG" width=600 height=200 />
+![RecKG](https://github.com/user-attachments/assets/e23fe126-24b1-4f03-8d9a-b3e963212902)
+
 
 # Collecting TMDB information
 ### **No need to run the code as the data is already in the ./data directory.**
