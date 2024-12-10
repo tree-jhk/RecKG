@@ -3,7 +3,7 @@
 
 **This repository is an official implementation of the paper ["RecKG: Knowledge Graph for Recommender Systems"](https://dl.acm.org/doi/10.1145/3605098.3636009).**  
 You can also download our research paper [here](https://drive.google.com/file/d/13_AKtQeVyaz2GwE0Ko7faAijInJJDwFb/view?usp=sharing).  
-The implemented version as a interactive dataset preprocessing tool of RecKG: [RecKG-web](https://github.com/ttytu/RecKG-web).  
+[RecKG-web](https://github.com/ttytu/RecKG-web): The implemented version as a interactive dataset preprocessing tool of RecKG.  
 
 ![RecKG](https://github.com/user-attachments/assets/e23fe126-24b1-4f03-8d9a-b3e963212902)  
 
