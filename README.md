@@ -28,7 +28,7 @@ python movielens-tmdb-merge.py
 # Constructing Simple RecKG
 ### **No need to run the code as the data is already in the ./data directory.**
 
-![simple_reckg](image/simple_reckg.png)
+![simple_reckg](image/simple_reckg.png)  
 
 In this study, Movielens data and Yahoo!Movies data were each converted into the RecKG format.  
 The constucted data is in the ./data directory, so running the following code is not necessary.  
@@ -46,7 +46,7 @@ python yahoo-movie-kg.py
 
 
 # Integrating RecKG
-![integrated_reckg](image/integrated_reckg.png)
+![integrated_reckg](image/integrated_reckg.png)  
 Standardizing two real-world datasets using RecKG, we apply it to a graph database management system. In doing so, we verify the interoperability of RecKG and conduct analysis through integrated RecKG.
 
 The integration of two real-world datasets (Movielens data and Yahoo!Movies data).  
@@ -55,7 +55,7 @@ python kg-merge.py
 ```
 
 # Visualizing RecKG by Neo4j
-![neo4j_visulalization](image/neo4j_visulalization.png)
+![neo4j_visulalization](image/neo4j_visulalization.png)  
 We demonstrate the application of RecKG to various real-world recommender system datasets using the graph database management system Neo4j. This showcases not only the necessity of RecKG for KG-based recommender systems but also its suitability for implementation within a graph database. Utilize the following cypher queries using the Neo4j desktop app's Neo4j Browser.   
 
 **Be careful when visualizing all the nodes, it will require too many virtual storage.**  
