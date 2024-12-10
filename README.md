@@ -5,14 +5,13 @@
 You can also download our research paper [here](https://drive.google.com/file/d/13_AKtQeVyaz2GwE0Ko7faAijInJJDwFb/view?usp=sharing).  
 The implemented version as a interactive dataset preprocessing tool of RecKG: [RecKG-web](https://github.com/ttytu/RecKG-web).  
 
+![RecKG](https://github.com/user-attachments/assets/e23fe126-24b1-4f03-8d9a-b3e963212902)  
+
 ### **Abstract**
 
 Within the field of recommender systems, there has been a shortage of research considering the integration of KGs, and notably, there is a lack of studies contributing to seamless integration. To facilitate the smooth integration of heterogeneous KGs, it is essential to ensure a consistent representation of entities that appear in different datasets while also accommodating diverse types of attributes.  
 
 In this study, we propose RecKG, a standardized KG for recommender systems, taking into consideration the crucial factors for data integration. We thoroughly examined various datasets from recommender systems to carefully select the attributes of RecKG, ensuring standardized formatting through consistent naming conventions, regardless of the knowledge base.
-
-![RecKG](https://github.com/user-attachments/assets/e23fe126-24b1-4f03-8d9a-b3e963212902)
-
 
 # Collecting TMDB information
 ### **No need to run the code as the data is already in the ./data directory.**
